@@ -1,7 +1,7 @@
 main description
 # SQL Examples
 ## Example 1: analysis of life expectancy and quality around the globe
-- CSV file: see 
+- CSV file: see Data life-expectancy.csv
 - SQL code:
 
 --0 Inspect table
