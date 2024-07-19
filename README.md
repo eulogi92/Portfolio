@@ -1,5 +1,14 @@
-main description
-# SQL Examples
+# About
+
+# SQL Projects:
 ## Project 1: analysis of life expectancy and quality around the globe
-- CSV file: Data life-expectancy.csv
-- SQL code:
+- Objective:
+- Skills:
+
+## Project 2:
+- Objective:
+- Skills:
+- 
+## Project 3:
+- Objective:
+- Skills:
