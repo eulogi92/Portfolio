@@ -38,7 +38,7 @@ SELECT CountryDisplay, avg(beer_servings)+avg(spirit_servings)+avg(wine_servings
 FROM [dbo].[Data life-expectancy] 
 GROUP BY CountryDisplay
 ORDER BY avg_alcohol_servings DESC;
-```
+
 
 --the country that consumed the highest quantity of alcohol overall, was it the first ranking country in terms of beer, wine or spirits
 SELECT CountryDisplay, avg(beer_servings), avg(spirit_servings), avg(wine_servings), avg(beer_servings)+avg(spirit_servings)+avg(wine_servings) as avg_alcohol_servings
