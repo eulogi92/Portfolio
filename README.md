@@ -1,15 +1,18 @@
 # About
 
-# SQL Projects:
-## Project 1: analysis of life expectancy and quality around the globe
-- Objective:
+# SQL Projects: 
+## Project 1: E-commerce
+- Database: Multiple tables
+- Task:
 - Skills:
 
 ## Project 2:
-- Objective:
+- Database: Single table
+- Task:
 - Skills:
 - 
-## Project 3:
+## Project 3: analysis of life expectancy and quality around the globe
+- Database: Single table
 - Objective:
 - Skills:
 
