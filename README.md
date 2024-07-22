@@ -10,19 +10,22 @@
 - Task: filter, group and sort variables to extract valuable information 
 
 ### Project 3: E-commerce database
-- Database: Multiple tables, database containing orders data and users data 
+- Database: Multiple tables, database containing orders data and users data for mock e-commerce
 - Task: link multiple tables and extract valuable information 
 
   
 ## PYTHON Projects:
-### PYTHON 1: analysis of life expectancy and quality around the globe
-- Objective:
-- Skills:
+### PYTHON 1: VIDEOGAME SALES
+- Database: videogame sales for 64,016 titles released from 1971-2024.
+- Libraries: pandas, matplot
+- Skills: data cleaning, filtering, grouping, sorting, data visualisation
 
-### PYTHON 2:
-- Objective:
-- Skills:
+### PYTHON 2: KICKSTARTER PROJECTS
+- Database: data for 375,000+ Kickstarter projects from 2009-2017.
+- Libraries: pandas, matplot
+- Skills: data cleaning, filtering, grouping, sorting, data visualisation
 - 
-### PYTHON 3:
-- Objective:
-- Skills:
+### PYTHON 3: UK TRAIN RIDES
+- Database: mock train ticket data for National Rail in the UK, from Jan to Apr 2024.
+- Libraries: pandas, matplot
+- Skills: data cleaning, filtering, grouping, sorting, data visualisation
