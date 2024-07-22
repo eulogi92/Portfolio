@@ -15,17 +15,17 @@
 
   
 ## PYTHON Projects:
-### PYTHON 1: VIDEOGAME SALES
+### Project 1: VIDEOGAME SALES
 - Database: videogame sales for 64,016 titles released from 1971-2024.
 - Libraries: pandas, matplot
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
 
-### PYTHON 2: KICKSTARTER PROJECTS
+### Project 2: KICKSTARTER PROJECTS
 - Database: data for 375,000+ Kickstarter projects from 2009-2017.
 - Libraries: pandas, matplot
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
 - 
-### PYTHON 3: UK TRAIN RIDES
+### Project 3: UK TRAIN RIDES
 - Database: mock train ticket data for National Rail in the UK, from Jan to Apr 2024.
 - Libraries: pandas, matplot
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
