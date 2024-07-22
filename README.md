@@ -24,7 +24,7 @@
 - Database: data for 375,000+ Kickstarter projects from 2009-2017.
 - Libraries: pandas, matplot
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
-- 
+  
 ### Project 3: UK TRAIN RIDES
 - Database: mock train ticket data for National Rail in the UK, from Jan to Apr 2024.
 - Libraries: pandas, matplot
