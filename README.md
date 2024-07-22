@@ -6,11 +6,11 @@
 - Task: filter, group and sort variables to extract valuable information 
 
 ### Project 2: Airline passenger satisfaction
-- Database: Single table - 24 columns, satisfaction of airline passengers 
+- Database: Single table - 24 columns, satisfaction rates of airline passengers and flight information
 - Task: filter, group and sort variables to extract valuable information 
 
-### Project 3: E-commerce
-- Database: Multiple tables
+### Project 3: E-commerce database
+- Database: Multiple tables, database containing orders data and users data 
 - Task: link multiple tables and extract valuable information 
 
   
