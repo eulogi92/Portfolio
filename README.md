@@ -31,4 +31,4 @@
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
 
 ## Tableu Dashboards: 
-check out the dashboards I've built using [Tableu](https://public.tableau.com/app/profile/marco.eulogi/vizzes))
+- Check out the [dashboards](https://public.tableau.com/app/profile/marco.eulogi/vizzes) I've built using Tableu
