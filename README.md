@@ -1,7 +1,8 @@
 ## About
 
 ![foto (1)](https://github.com/user-attachments/assets/83084f16-532c-478a-8eac-c7e448449adc| width=100))
-<img src="[https://your-image-url.type](https://github.com/user-attachments/assets/83084f16-532c-478a-8eac-c7e448449adc)" width="100" height="100">
+
+<img src="[https://your-image-url.type](https://github.com/user-attachments/assets/83084f16-532c-478a-8eac-c7e448449adc)" width="200">
 Hello and welcome to my Github depository!
 
 I'm Marco, a positive and open-minded professional who works in the field of Environmental Engineering, with a focus on data and innovation. I had the amazing opportunity to work and study abroad in multi-cultural environments, demonstrating strong initiative and self-motivation. With years of experience in R&D and project management, I have excellent communication and written skills. I’m always eager to jump into new professional projects.
