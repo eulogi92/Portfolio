@@ -29,3 +29,6 @@
 - Database: mock train ticket data for National Rail in the UK, from Jan to Apr 2024.
 - Libraries: pandas, matplot
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
+
+## Tableu Dashboards: 
+check out the dashboards I've built using [Tableu]([https://pages.github.com/](https://public.tableau.com/app/profile/marco.eulogi/vizzes))
