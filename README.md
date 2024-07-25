@@ -1,6 +1,6 @@
 ## About
 
-![foto (1)](https://github.com/user-attachments/assets/83084f16-532c-478a-8eac-c7e448449adc)
+![foto (1)](https://github.com/user-attachments/assets/83084f16-532c-478a-8eac-c7e448449adc| width=100))
 
 Hello and welcome to my Github depository!
 
