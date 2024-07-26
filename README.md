@@ -23,12 +23,12 @@ Feel free to have a look :)
 ## PYTHON Projects:
 ### Project 1: VIDEOGAME SALES
 - Database: videogame sales for 64,016 titles released from 1971-2024.
-- Libraries: pandas, matplot
+- Libraries: numpy, pandas, matplot, seaborn
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
 
 ### Project 2: KICKSTARTER PROJECTS
 - Database: data for 375,000+ Kickstarter projects from 2009-2017.
-- Libraries: pandas, matplot
+- Libraries: numpy, pandas, matplot, seaborn
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
   
 ## Tableu Dashboards: 
