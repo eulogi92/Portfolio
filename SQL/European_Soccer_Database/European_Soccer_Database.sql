@@ -2,9 +2,9 @@
 
 select 
 date_diff(max(date), min(date), day) as days_passed
-from compito1.match;
+from db.match;
 
--- 4 Produce a table which, for each Season and League Name, shows the following statistics about the home goals scored:  min average  mid-range  max  sum
+-- Produce a table which, for each Season and League Name, shows the following statistics about the home goals scored:  min average  mid-range  max  sum
 
 select 
 m.season, 
@@ -61,7 +61,7 @@ group by m.season, t.team_long_name
 order by m.season, tot_goals DESC;
 
 
---9 Create a query that, for each season, shows the name of the team that ranks first in terms of total goals scored. 
+--Create a query that, for each season, shows the name of the team that ranks first in terms of total goals scored. 
 
 with tabella as (
   select *,
