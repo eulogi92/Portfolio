@@ -19,6 +19,9 @@ Feel free to have a look :)
 - Database: Multiple tables, database containing orders data and users data for mock e-commerce
 - Task: link multiple tables and extract valuable information 
 
+### Project 4: European_Soccer_Database
+- Database: Multiple tables, database containing matches and scores of European soccer teams
+- Task: link multiple tables and extract valuable information 
   
 ## PYTHON Projects:
 ### Project 1: VIDEOGAME SALES
