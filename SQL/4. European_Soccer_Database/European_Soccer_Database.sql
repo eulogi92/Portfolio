@@ -113,4 +113,5 @@ limit 10
 
 SELECT TopScorer.team_long_name, TopScorer2.team_long_name
 FROM compito1.TopScorer
-CROSS JOIN compito1.TopScorer2;
+CROSS JOIN compito1.TopScorer2
+WHERE TopScorer.team_long_name<>TopScorer2.team_long_name;
