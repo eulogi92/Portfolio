@@ -58,7 +58,7 @@ from db.match as m
   join db.team as t
   on m.home_team_api_id=t.team_api_id or m.away_team_api_id=t.team_api_id
 group by m.season, t.team_long_name
-order by m.season, tot_goals DESC;
+order by m.season DESC, tot_goals DESC;
 
 
 --Create a query that, for each season, shows the name of the team that ranks first in terms of total goals scored. 
@@ -82,3 +82,35 @@ with tabella as (
 select *
 from tabella 
 where ranking_per_season = 1
+
+-- shows all the possible “pair combinations” between the top 10 teams in terms of total goals scored 
+
+create table db.TopScorer as (
+select
+t.id,
+t.team_long_name,
+sum(m.home_team_goal)+sum(m.away_team_goal) as tot_goals
+from db.match as m
+  join db.team as t
+  on m.home_team_api_id=t.team_api_id or m.away_team_api_id=t.team_api_id
+group by t.id, t.team_long_name
+order by tot_goals DESC
+limit 10
+)
+
+create table db.TopScorer2 as (
+select
+t.id,
+t.team_long_name,
+sum(m.home_team_goal)+sum(m.away_team_goal) as tot_goals
+from db.match as m
+  join db.team as t
+  on m.home_team_api_id=t.team_api_id or m.away_team_api_id=t.team_api_id
+group by t.id, t.team_long_name
+order by tot_goals DESC
+limit 10
+)
+
+SELECT TopScorer.team_long_name, TopScorer2.team_long_name
+FROM compito1.TopScorer
+CROSS JOIN compito1.TopScorer2;
