@@ -28,7 +28,7 @@ Feel free to have a look :)
 - Database: data of 31,000+ tickets sold in the London Metropolitan Area.
 - Libraries: numpy, pandas, plotly, matplotlib
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
-- 
+  
 ### Project 2: VIDEOGAME SALES
 - Database: videogame sales for 64,016 titles released from 1971-2024.
 - Libraries: numpy, pandas, matplotlib, seaborn
