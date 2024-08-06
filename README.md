@@ -39,7 +39,7 @@ Feel free to have a look :)
 - Libraries: numpy, pandas, matplotlib, seaborn, data visualisation
 
 ### Project 4: MONITORING DATA
-- Database: 62,000+ water qualiy monitoring data, from 4 monitoring stations and 4 sensor types.
+- Database: 62,000+ water quality monitoring data, from 4 monitoring stations and 4 sensor types.
 - Libraries: numpy, pandas, plotly
   
 ## Tableu Dashboards: 
