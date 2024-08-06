@@ -29,15 +29,18 @@ Feel free to have a look :)
 - Libraries: numpy, pandas, plotly, matplotlib
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
   
-### Project 2: VIDEOGAME SALES
+### Project 2: SALES ANALYSIS
 - Database: 64,000+ titles released between 1971-2024.
 - Libraries: numpy, pandas, matplotlib, seaborn
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
 
 ### Project 3: KICKSTARTER PROJECTS
 - Database: 375,000+ Kickstarter projects from 2009-2017.
-- Libraries: numpy, pandas, matplotlib, seaborn
-- Skills: data cleaning, filtering, grouping, sorting, data visualisation
+- Libraries: numpy, pandas, matplotlib, seaborn, data visualisation
+
+### Project 4: MONITORING DATA
+- Database: 62,000+ water qualiy monitoring data, from 4 monitoring stations and 4 sensor types.
+- Libraries: numpy, pandas, plotly
   
 ## Tableu Dashboards: 
 - Check out the [dashboards](https://public.tableau.com/app/profile/marco.eulogi/vizzes) I've built using Tableu
