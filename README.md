@@ -29,8 +29,8 @@ Feel free to have a look :)
 - Libraries: numpy, pandas, plotly, matplotlib
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
   
-### Project 2: SALES ANALYSIS
-- Database: 64,000+ titles released between 1971-2024.
+### Project 2: DIGITAL SALES ANALYSIS
+- Database: 64,000+ digital products released between 1971-2024.
 - Libraries: numpy, pandas, matplotlib, seaborn
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
 
