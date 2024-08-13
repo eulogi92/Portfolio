@@ -38,7 +38,7 @@ Feel free to have a look :)
 - Database: 375,000+ Kickstarter projects from 2009-2017.
 - Libraries: numpy, pandas, matplotlib, seaborn
 - Skills: data cleaning, filtering, grouping, sorting, data visualisation
-- 
+  
 ### Project 4: MONITORING DATA
 - Database: 62,000+ water quality monitoring data, from 4 monitoring stations and 4 sensor types.
 - Libraries: numpy, pandas, plotly
